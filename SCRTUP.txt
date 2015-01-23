@@ -1,0 +1,17 @@
+# C:\Ruby193\bin\Scripts
+
+# start: This method will start GUI with selected database.
+# set_emplstat: 
+
+require "rautomation"
+require "win32/screenshot"
+require "timeout"
+require "variables.rb"
+
+def scrtup
+  
+include Prsn
+  
+  
+
+end
